@@ -1,7 +1,6 @@
 # AD-training
 
-Python codes of my master thesis "Homomorphic Encryption for Augmented Democracy"
-
+Python codes of my master thesis "Homomorphic Encryption for Augmented Democracy".
 
 
 ## Supervisors
@@ -10,6 +9,8 @@ Olivier Pereira
 
 Pierrick Méaux
 
+## Data
+Unfortunately Politools did not allowed to share publicly their dataset. Please contact use with own dataset or contact https://www.smartvote.ch/ 
 
 ## Usage
 High-level usage example. To be improved.
