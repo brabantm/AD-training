@@ -10,7 +10,7 @@ Olivier Pereira
 Pierrick Méaux
 
 ## Data
-Unfortunately Politools did not allowed to share publicly their dataset. Please contact use with own dataset or contact https://www.smartvote.ch/ 
+Unfortunately Politools did not allowed to share publicly their dataset. Please use with own dataset or contact https://www.smartvote.ch/.
 
 ## Usage
 High-level usage example. To be improved.
