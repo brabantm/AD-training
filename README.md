@@ -5,12 +5,16 @@ Python codes of my master thesis "Homomorphic Encryption for Augmented Democracy
 
 ## Supervisors
 
-Olivier Pereira
-
-Pierrick Méaux
+- Olivier Pereira
+- Pierrick Méaux
 
 ## Data
 Unfortunately Politools did not allowed to share publicly their dataset. Please use with own dataset or contact https://www.smartvote.ch/.
+
+## Libraries used
+
+- sklearn https://github.com/scikit-learn/scikit-learn
+- pyfhe https://github.com/sarojaerabelli/py-fhe
 
 ## Usage
 High-level usage example. To be improved.
@@ -33,7 +37,7 @@ while(not stop):
 ```
 
 ## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+Pull requests are welcome. 
 
 
 ## License
