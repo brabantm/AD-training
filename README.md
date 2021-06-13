@@ -15,7 +15,7 @@ Pierrick Méaux
 High-level usage example. To be improved.
 
 ```python
-import Online.Parties
+from Online.Parties import System, MLE, User
 
 #Create System, MLE and User
 system = System(problem_parameters)
