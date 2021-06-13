@@ -19,16 +19,16 @@ from Online.Parties import System, MLE, User
 
 #Create System, MLE and User
 system = System(problem_parameters)
-MLEngine = MLE(params, problem_parameters, keys)
-Alice = User(params, problem_parameters, keys, latent_vector, preference)
+mlengine = MLE(params, problem_parameters, keys)
+alice = User(params, problem_parameters, keys, latent_vector, preference)
 
 #Create first weight v^0
 v = system.newQuestion(dimension)
 
 #Online Protocol B
 while(not stop):
-  grad = Alice.GD(v)
-  v = MLEngine.GD(grad)
+  grad = alice.GD(v)
+  v = mlengine.GD(grad)
 ```
 
 ## Contributing
