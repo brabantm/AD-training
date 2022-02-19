@@ -1,6 +1,6 @@
 # AD-training
 
-Python codes of my master thesis "Homomorphic Encryption for Augmented Democracy".
+Python codes of my master thesis "Homomorphic Encryption for Augmented Democracy". https://dial.uclouvain.be/memoire/ucl/en/object/thesis%3A30685
 
 
 ## Supervisors
